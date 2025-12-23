@@ -185,7 +185,10 @@ See the section about deployment for more information.
 
 ## Démonstration
 
-<!-- Ajouter les captures d'écran ici -->
+
+
+<img width="2476" height="1050" alt="Screenshot 2025-12-23 170133" src="https://github.com/user-attachments/assets/deff2b10-96c4-4384-92c2-fe004edb7982" />
+<img width="2369" height="976" alt="Screenshot 2025-12-23 170107" src="https://github.com/user-attachments/assets/0baf1815-288e-4e79-9f19-f3186ecb1645" />
 
 ## Évaluation
 ✅ Fonctionnalité des composants  
